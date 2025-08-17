@@ -1,0 +1,26 @@
+{
+  "name": "codebase-agent",
+  "version": "1.0.0",
+  "main": "ask.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TusharKanjariya/codebase-agent.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TusharKanjariya/codebase-agent/issues"
+  },
+  "homepage": "https://github.com/TusharKanjariya/codebase-agent#readme",
+  "description": "",
+  "dependencies": {
+    "@xenova/transformers": "^2.17.2",
+    "axios": "^1.11.0",
+    "dotenv": "^17.2.1",
+    "globby": "^14.1.0"
+  }
+}
